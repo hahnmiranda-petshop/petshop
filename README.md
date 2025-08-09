@@ -9,18 +9,17 @@ Repositório **principal** do projeto **Petshop**, contendo visão geral, docume
 O objetivo é estudar e aplicar boas práticas modernas de arquitetura com **Java 21, Spring Boot, Gradle KTS, Kafka, Redis e Docker**.
 
 ## 📂 Repositórios do Projeto
-- [petshop-people-server](../petshop-people-server)  
-- [petshop-pet-server](../petshop-pet-server)  
-- [petshop-appointment-server](../petshop-appointment-server)  
-- [petshop-gateway](../petshop-gateway)  
-- [petshop-config-server](../petshop-config-server)  
-- [petshop-config-repo-v1](../petshop-config-repo-v1)  
-- [petshop-shared-lib](../petshop-shared-lib) *(quando aplicável)*  
-- [petshop-observability](../petshop-observability)  
+- [petshop-people-server](https://github.com/hahnmiranda-petshop/petshop-people-server)  
+- [petshop-pet-server](https://github.com/hahnmiranda-petshop/petshop-pet-server)  
+- [petshop-appointment-server](https://github.com/hahnmiranda-petshop/petshop-appointment-server)  
+- [petshop-gateway](https://github.com/hahnmiranda-petshop/petshop-gateway)  
+- [petshop-config-server](https://github.com/hahnmiranda-petshop/petshop-config-server)  
+- [petshop-config-repo-v1](https://github.com/hahnmiranda-petshop/petshop-config-repo-v1)  
+- [petshop-shared-lib](https://github.com/hahnmiranda-petshop/petshop-shared-lib) *(quando aplicável)*  
+- [petshop-observability](https://github.com/hahnmiranda-petshop/petshop-observability)  
 
 ## 📌 Links Úteis
-- [Kanban no GitHub Project](link-do-project)
-- [Documentação no Notion](link-notion)
+- [Kanban no GitHub Project](https://github.com/orgs/hahnmiranda-petshop/projects/1)
 
 ---
 > 📜 Licença: [MIT](LICENSE)
