@@ -18,7 +18,7 @@ Bem-vindo ao repositório **Petshop**! Este documento descreve como você pode c
 
 ## Sobre o Projeto
 
-O **Petshop** é o repositório pai de um ecossistema de serviços e aplicações que compõem um sistema distribuído, utilizado como **case de portfólio para um desenvolvedor sênior**.  
+O **Petshop** é o repositório pai de um ecossistema de serviços e aplicações que compõem um sistema distribuído, utilizado como **case de portfólio para um desenvolvedor**.  
 Este repositório concentra **issues, milestones e gestão Kanban**, além de documentar os fluxos de contribuição.
 
 ---
@@ -32,7 +32,7 @@ Antes de contribuir, você deve ter instalado:
 - **Gradle com Kotlin DSL**
 - **Docker** e **Docker Compose**
 - **Git**
-- IDE recomendada: [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/)
+- IDE recomendada: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 Além disso, configure o Git com seu nome e e-mail:
 ```bash
@@ -45,7 +45,7 @@ git config --global user.email "seu-email@dominio.com"
 ## Clonando o Repositório
 
 ```bash
-git clone git@github.com:SEU-USUARIO/petshop.git
+git clone git@github.com:hahnmiranda/petshop.git
 cd petshop
 ```
 
@@ -146,4 +146,4 @@ Se tiver dúvidas:
 
 ---
 
-✍️ **Obrigado por contribuir!**
+✍️ **Obrigado pela contribuição!**
